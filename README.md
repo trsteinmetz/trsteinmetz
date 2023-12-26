@@ -1,4 +1,5 @@
-### Hi there 👋
+#Tarcísio Steinmetz
+Certified AWS Cloud Architect Associate 🚀 | Passionate about High Availability, Disaster Recovery, and maximizing DynamoDB's potential 💡
 
 <!--
 **trsteinmetz/trsteinmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
