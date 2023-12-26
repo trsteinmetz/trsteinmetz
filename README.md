@@ -1,7 +1,8 @@
 # Tarcísio Steinmetz
 #### Certified AWS Cloud Architect Associate
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trsteinmetz)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## About me
 I am a seasoned IT Professional with an Excellence mindset. My passion lies in crafting robust Architectural Solutions grounded in best practices, drawing inspiration from AWS and industry standards such as ISO 27001.
