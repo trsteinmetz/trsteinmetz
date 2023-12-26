@@ -1,4 +1,4 @@
-#Tarcísio Steinmetz
+# Tarcísio Steinmetz
 
 Certified AWS Cloud Architect Associate 🚀 | Passionate about High Availability, Disaster Recovery, and maximizing DynamoDB's potential 💡
 
