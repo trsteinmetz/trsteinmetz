@@ -9,6 +9,19 @@ I thrive on the intricacies of ensuring High Availability and implementing foolp
 
 Let's architect the extraordinary together! 🚀
 
+## Skills
+- 💻 **AWS Cloud Architecture:** Certified Cloud Architect Associate
+- 🚧 **AWS CloudFormation:** Defining and deploying infrastructure as code
+- 📅 **Event-Driven Architecture:** Designing systems that respond to events and messages
+- 🐍 **Lambda Functions with Python:** Crafting serverless functions with Python
+
+## Projects
+
+## Contact
+
+## 
+
+
 <!--
 **trsteinmetz/trsteinmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
