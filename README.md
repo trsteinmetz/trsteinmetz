@@ -2,6 +2,13 @@
 
 Certified AWS Cloud Architect Associate
 
+## About me
+I am a seasoned IT Professional with an Excellence mindset. My passion lies in crafting robust Architectural Solutions grounded in best practices, drawing inspiration from AWS and industry standards such as ISO 27001.
+
+I thrive on the intricacies of ensuring High Availability and implementing foolproof Disaster Recovery strategies. Currently, my fascination revolves around DynamoDB, and I relish the challenge of working on projects that push this powerful database to its limits.
+
+Let's architect the extraordinary together! 🚀
+
 <!--
 **trsteinmetz/trsteinmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
