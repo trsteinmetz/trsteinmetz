@@ -17,8 +17,8 @@ Let's architect the extraordinary together! 🚀
 - 📅 **Event-Driven Architecture:** Designing systems that respond to events and messages
 - 🐍 **Lambda Functions with Python:** Crafting serverless functions with Python
 
-## Projects
-[![A Serverless Workload to Perform CRUD Operations on DynamoDB](http://tinyurl.com/4z7es34a)](https://github.com/trsteinmetz/AWS-CrudApiToDynamoDb)
+## Work Examples
+[![A Serverless Workload to Perform CRUD Operations on DynamoDB][(http://tinyurl.com/4z7es34a)](https://github.com/trsteinmetz/AWS-CrudApiToDynamoDb)
 ## Contact
 📫 Connect with me on GitHub: [trsteinmetz](https://github.com/trsteinmetz)
 
