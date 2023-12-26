@@ -18,7 +18,7 @@ Let's architect the extraordinary together! 🚀
 - 🐍 **Lambda Functions with Python:** Crafting serverless functions with Python
 
 ## Work Examples
-[![A Serverless Workload to Perform CRUD Operations on DynamoDB][(http://tinyurl.com/4z7es34a)](https://github.com/trsteinmetz/AWS-CrudApiToDynamoDb)
+[A Serverless Workload to Perform CRUD Operations on DynamoDB](https://github.com/trsteinmetz/AWS-CrudApiToDynamoDb)
 ## Contact
 📫 Connect with me on GitHub: [trsteinmetz](https://github.com/trsteinmetz)
 
