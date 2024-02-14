@@ -19,6 +19,9 @@ Let's architect the extraordinary together! 🚀
 
 ## Work Examples
 [A Serverless Workload to Perform CRUD Operations on DynamoDB](https://github.com/trsteinmetz/AWS-CrudApiToDynamoDb)
+
+[An Example of Event Driven Architecture](https://github.com/trsteinmetz/AWS-EDA-Example)
+
 ## Contact
 📫 Connect with me on GitHub: [trsteinmetz](https://github.com/trsteinmetz)
 
